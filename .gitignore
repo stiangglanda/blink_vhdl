@@ -1,1 +1,33 @@
 /TclScriptsHGB
+
+# Quartus Prime Generated Files
+db/
+incremental_db/
+output_files/
+timing/
+simulation/
+greybox_tmp/
+hc_output/
+.qsys_edit/
+
+# Log and Report Files
+*.rpt
+*.smsg
+*.summary
+*.done
+*.log
+*.bak
+
+# Programming and Configuration Files
+*.sof
+*.pof
+*.jam
+*.jbc
+*.ekp
+*.jic
+*.jdi
+*.pin
+*.sld
+
+# Quartus Workspace Settings
+*.qws
